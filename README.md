@@ -1,6 +1,6 @@
 🛍️ Customer Purchase Behavior & Retail Sales Analytics Dashboard
 An end-to-end data analytics and business intelligence solution evaluating retail transactions, calculating **RFM (Recency, Frequency, Monetary) Customer Segmentation**, and visualizing customer lifetime value trends through an interactive Streamlit web dashboard.
-🔗 **Live Interactive Dashboard: [Insert your deployed Streamlit link here]  
+🔗 **Live Interactive Dashboard: https://customer-behavior-analytics-dashboard-3kccrlwtshsytk9mbbovz9.streamlit.app/ 
 📁 **Exploratory Data Analysis Notebook:`Customer_Purchase_Analysis.ipynb`
 
 📌 Project Overview & Objectives
